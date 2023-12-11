@@ -1,0 +1,61 @@
+{
+  "PATH": {
+    "NAVIGATEHOME": "/",
+    "NAVIGATEDISCOVER": "/discover",
+    "NAVIGATEGAMEFOLIO": "/gamefolio",
+    "NAVIGATELANDING": "/landing",
+    "NAVIGATESIGNUP": "/signup",
+    "NAVIGATELOGIN": "/login",
+    "NAVIGATESIGNIN": "/signin",
+    "NAVIGATECHOOSEPASSWORD": "/choosepassword",
+    "NAVIGATERESETPASSWORD": "/resetpassword",
+    "NAVIGATENEWPASSWORD": "/newpassword",
+    "NAVIGATESENDOTP": "/sendotp",
+    "NAVIGATEVERIFYEMAIL": "/verifyemail",
+    "NAVIGATEPOST": "post",
+    "NAVIGATEADDPOST": "/add-post",
+    "NAVIGATEGAMEDETAIL": "/game-detail",
+    "NAVIGATEONBOARDING": "/onboarding",
+    "NAVIGATEPROFILE": "/profile",
+    "NAVIGATEBANNED": "/banned",
+    "NAVIGATEFOLLOWERS": "/followers",
+    "NAVIGATECONFIRMATION": "/confirmation",
+    "NAVIGATEREUPLOADPROFILE": "/uploadprofile",
+    "NAVIGATETHEME": "/theme",
+    "NAVIGATEWALLET": "/wallet",
+    "NAVIGATEDRAFT": "/draft",
+    "NAVIGATESETTINGS": "/settings",
+    "NAVIGATELOGOUT": "/logout"
+  },
+  "COOKIES": {
+    "USERCOOKIES": "userdata",
+    "DEVICECOOKIE": "device",
+    "CONFIGDATA": "configdata",
+    "THEMECOOKIES": "themecookie",
+    "ACCTYPECOOKIES": "acounttype",
+    "ONBORADINGCOOKIE": "onbording"
+  },
+
+  "GAMEFOLIO": "Gamefolio",
+  "GAMEPEDIA": "Gamepedia",
+  "PLOT": "Plot",
+  "AWARDS": "Awards",
+  "RATINGANDREVIEW": "Rating & Review",
+  "GALLERY": "Gallery",
+  "CREATORS": "Creators",
+
+  "PROFILETYPE": "Profile Type",
+  "ACCOUNTSETTINGS": "Account Settings",
+  "SECURITY": "Security",
+  "CONNECTIONS": "Connections",
+  "NOTIFICATIONS": "Notifications",
+  "HELP": "Help",
+
+  "POSTS": "Posts",
+  "ARTICLES": "Articles",
+  "BLOGS": "Blogs",
+
+  "GENERAL": "General",
+  "FOLLOWREQUEST": "Follow Request",
+  "GAMESOREIENTED": "Games Oriented"
+}

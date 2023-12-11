@@ -1,0 +1,494 @@
+{
+  "constants": {
+    "LEFT": "LEFT",
+    "RIGHT": "RIGHT"
+  },
+  "faq_data": [
+    {
+      "faq": "What is Gamersback?",
+      "detail": "Gamersback is a platform made for gamers to connect, track, grow, network and to give maximum exposure and opportunities at ease. It is built from India for the gamers around the world with its unique and new user experience, values, and all other features.",
+      "status": false
+    },
+    {
+      "faq": "Who is behind Gamersback?",
+      "status": false,
+      "detail": "Arvinth Kumar, founder of gamersback is a proud gamer who picked up the joysticks at the age of 5. Someone who has seen the evolution of gaming scenarios, starting with the 2D version. Arvinth’s envisions to provide the best platform with alot of opportunities for the Indian Gaming ecosystem."
+    },
+    {
+      "faq": "What's the purpose of Gamersback?",
+      "status": false,
+      "detail": "Gamersback as a venture aims to be one stop shop for all the gaming needs for an end user. With Gamersback.com we kickstart our journey in giving the gamers an opportunity to create portfolios, connect and network with fellow gamers, participate in tournaments and get noticed by the scouting team."
+    },
+    {
+      "faq": "How is it different from other Websites?",
+      "status": false,
+      "detail": "With gamersback platform, gamers will think twice before visiting multiple platforms to interact with fellow gamers, register for tournaments, view in-game statistics, share clips, or create a portfolio. Moreover, guess who rewards players for their performance in games? We do !"
+    },
+    {
+      "faq": "Is the platform launched?",
+      "status": false,
+      "detail": "Gamerback has completed its initial closed Alpha testing which included former competitieve players, avid gamers, casual gamers. tournament organizers and game designers. We are currently working on the feedbacks recieved from our audience."
+    },
+    {
+      "faq": "Is the Gamersback safe to use?",
+      "status": false,
+      "detail": "Yes, we only show the data's provided by game developers with their authorization. We envision in building the platform with great positive culture with content moderations & work towards our goal of removing toxicity in gaming eco-system. It's safe for everyone to use."
+    },
+    {
+      "faq": "When will Gamerback launch?",
+      "status": false,
+      "detail": "Gamersback will be launched in early 2023 tentatively."
+    }
+  ],
+
+  "h_c_data": [
+    {
+      "mainHeading": "Terms of Service",
+      "subHeadings": [
+        {
+          "subTitle": "Welcome to GamersBack the Website, operated by Gamersback Pvt Ltd. These Terms and Conditions Agreement govern your use of the Website and any services, features, or content provided by or through the Website. By accessing or using the Website, you agree to be bound by this Agreement. If you do not agree to these terms, please refrain from using the Website.",
+          "data": [
+            {
+              "pointTitle": "Acceptance of Terms",
+              "pointsData": "a) By accessing or using the Website, you acknowledge that you have read, understood, and agree to be bound by this Agreement, along with any additional guidelines or policies referenced herein. This Agreement constitutes a legally binding contract between you and Gamersback Pvt Ltd. b). If you are using the Website on behalf of an organization or entity, you represent and warrant that you have the authority to bind such organization or entity to this Agreement. c) If you do not agree to this Agreement or any part thereof, your sole remedy is to cease using the Website."
+            },
+            {
+              "pointTitle": "Intellectual Property",
+              "pointsData": "a) All content on the Website, including but not limited to text, graphics, logos, images, audio clips, videos, software, and other materials, is the property of Gamersback Pvt Ltd, its licensors, or other third-party content providers. The content is protected by copyright, trademark, patent, trade secret, and other intellectual property laws. b) You may not use, reproduce, distribute, modify, or create derivative works of the Website's content without prior written consent from Gamersback Pvt Ltd or the respective content owners. c) By posting or sharing content on the Website, you grant Gamersback Pvt Ltd a non-exclusive, royalty-free, worldwide, perpetual, and sublicensable right to use, reproduce, modify, adapt, publish, translate, distribute, and display such content for the purposes of operating and promoting the Website. d) All trademarks, service marks, logos, and trade names displayed on the Website are the property of their respective owners. You may not use or display any trademarks or logos without the prior written consent of the respective owners."
+            },
+            {
+              "pointTitle": "User Conduct",
+              "pointsData": "a) You agree to use the Website in accordance with all applicable laws and regulations. You must not use the Website for any unlawful or prohibited purposes. b) When using the Website, you must abide by the following rules: i) You must provide accurate and up-to-date information when creating an account or interacting with the Website. ii) You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. iii) You must not impersonate any person or entity or falsely represent your affiliation with any person or entity. iv) You must not engage in any activity that disrupts or interferes with the functioning of the Website, including but not limited to hacking, spreading viruses or malware, or attempting to gain unauthorized access to other users' accounts. v) You must respect other users' rights and refrain from engaging in harassment, hate speech, or any form of offensive or abusive behavior on the Website. vi) You must not post, transmit, or share any content that is unlawful, defamatory, infringing, or otherwise objectionable. c. Gamersback Pvt Ltd reserves the right to suspend, terminate, or restrict your access to the Website, without prior notice, if you violate this Agreement or engage in any prohibited conduct."
+            },
+            {
+              "pointTitle": "User-generated Content",
+              "pointsData": "a) The Website may allow users to post, upload, or share content, including but not limited to text, images, videos, and audio User-generated Content. Gamersback Pvt Ltd does not endorse or guarantee the accuracy, reliability, or legality of any User-generated Content. b) You understand and agree that by using the Website, you may be exposed to User-generated Content that may be offensive, indecent, or objectionable. Gamersback Pvt Ltd shall not be liable for any User-generated Content or any damages resulting from your reliance on such content. c) Gamersback Pvt Ltd reserves the right to remove or modify any User-generated Content that violates this Agreement or is deemed inappropriate or harmful to the Website or its users, without prior notice. d) By posting or sharing User-generated Content on the Website, you represent and warrant that you have the necessary rights and permissions to do so, and that your content does not infringe upon the rights of any third party, including intellectual property rights, privacy rights, or publicity rights."
+            },
+            {
+              "pointTitle": "Privacy",
+              "pointsData": "a) Gamersback Pvt Ltd respects your privacy and is committed to protecting your personal information. Our Privacy Policy explains how we collect, use, and disclose your information when you use the Website. By using the Website, you consent to the collection, use, and disclosure of your information as described in the Privacy Policy."
+            },
+            {
+              "pointTitle": "Disclaimer of Warranties",
+              "pointsData": "a) The Website and its content are provided on an as is and as available basis. Gamersback Pvt Ltd makes no warranties, express or implied, regarding the accuracy, reliability, or availability of the content or the functionality of the Website. b) Gamersback Pvt Ltd disclaims all warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement."
+            },
+            {
+              "pointTitle": "Limitation of Liability",
+              "pointsData": "a) Gamersback Pvt Ltd shall not be liable for any indirect, incidental, consequential, or punitive damages arising out of or in connection with your use of the Website, including but not limited to any loss of data, revenue, or profits, even if advised of the possibility of such damages. b) In no event shall the total liability of Gamersback Pvt Ltd exceed the amount paid by you, if any, for accessing or using the Website during the twelve (12) months preceding the claim."
+            },
+            {
+              "pointTitle": "Indemnification",
+              "pointsData": "a) You agree to indemnify, defend, and hold harmless Gamersback Pvt Ltd and its officers, directors, employees, agents, affiliates, and licensors from and against any and all claims, liabilities, damages, losses, costs, and expenses, including reasonable attorneys' fees, arising out of or in connection with your use of the Website, your violation of this Agreement, or your violation of any rights of another party."
+            },
+            {
+              "pointTitle": "Governing Law and Jurisdiction",
+              "pointsData": "a) This Agreement shall be governed by and construed in accordance with the laws of Bengaluru, Karnataka. Any dispute arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the courts located in Bengaluru, Karnataka."
+            },
+            {
+              "pointTitle": "Modifications to the Agreement",
+              "pointsData": "a) Gamersback Pvt Ltd reserves the right to modify or update this Agreement at any time without prior notice. It is your responsibility to review the Agreement periodically for any changes. Your continued use of the Website after any modifications to this Agreement constitutes your acceptance of the updated terms."
+            },
+            {
+              "pointTitle": "Severability",
+              "pointsData": "a) If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the validity, legality, or enforceability of the remaining provisions shall not be affected or impaired."
+            },
+            {
+              "pointTitle": "Entire Agreement",
+              "pointsData": "a) This Agreement, along with any additional guidelines or policies referenced herein, constitutes the entire agreement between you and Gamersback Pvt Ltd regarding the subject matter hereof and supersedes all prior or contemporaneous understandings, representations, or agreements, whether oral or written."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mainHeading": "Cookies policy",
+      "subHeadings": [
+        {
+          "subTitle": "Cookies policy",
+          "data": [
+            {
+              "pointTitle": "What kinds of information do we collect?",
+              "pointsData": "To provide the best service, we must process information about you. The types of information we collect depend on how you use gamersback. (Things you and other user’s do and provide) a) Information and content you provide. We collect the content, communications and other information you provide when you use gamersback, including when you sign up for an account, create or share content, and message or communicate with others. This can include information in or about the content you provide (like metadata), such as the location of a photo or the date a file was created. It can also include what you see through features we provide, such as our camera, so we can do things like suggest masks and filters that you might like, or give you tips on using camera formats. Our systems automatically process content and communications you and others provide to analyze context and what's in them for the purposes described below. Learn more about how you can control who can see the things you share. b) Networks and connections. We collect information about the people, Pages, accounts, hashtags and groups you are connected to and how you interact with them across gamersback, such as people you communicate with the most or pages you are part of. We also collect contact information if you choose to upload, sync or import it from a device (such as an address book or call log or SMS log history), which we use for things like helping you and others find people you may know and for the other purposes listed below. c) Your usage. We collect information about how you use our service, such as the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities. For example, we log when you're using and have last used our service, and what photos, videos and other content you view on our website. We also collect information about how you use features like our camera. d) Information about transactions made on our Products. If you use our Products for purchases or other financial transactions (such as when you make a purchase register for tournament), we collect information about the purchase or transaction. This includes payment information, such as your credit or debit card number and other card information e) Things others do and information they provide about you. We also receive and analyze content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information. 'Device Information' As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our website, and we combine this information across different devices you use. For example, we use information collected about your use of our service on your phone to better personalize the content or features you see when you use our service on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device.Information we obtain from these devices includes: • Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins. • Device operations: information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).• Identifiers: unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use. • Device signals: Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers. • Data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos. • Network and connections: information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you stream a video from your phone to your TV • Cookie data: data from cookies stored on your device, including cookie IDs and settings. "
+            },
+            {
+              "pointTitle": "How do we use this information?",
+              "pointsData": "We use the information we have (subject to choices you make) as described below and to provide and support the gamersback Products and related services. Here's how Provide, personalize and improve our Products. We use the information we have to deliver our service, including to personalize features and content (including your News Feed, Stories and ads) and make suggestions for you (such as tournaments you may be interested in or pages you may want to follow) on and off our website. To create personalized service that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide); how you use and interact with our website; and the people, places, or things you're connected to and interested in on and off our website. Learn more about how we use information about you to personalize your experience, including features, content and recommendations in Gamersback; you can also learn more about how we choose the ads that you see.  We use the information we have to deliver our service, including to personalize features and content (including your News Feed, Stories and ads) and make suggestions for you (such as tournaments you may be interested in or pages you may want to follow) on and off our website. To create personalized service that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide); how you use and interact with our website; and the people, places, or things you're connected to and interested in on and off our website. Learn more about how we use information about you to personalize your experience, including features, content and recommendations in Gamersback; you can also learn more about how we choose the ads that you see. Promote safety, integrity and security. We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our service, and promote safety and security on and off of gamersback. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to detect when someone needs help Communicate with you. We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us."
+            },
+            {
+              "pointTitle": "How is this information shared?",
+              "pointsData": "Sharing on Facebook Products People and accounts you share and communicate with When you share and communicate using our website, you choose the audience for what you share. For example, when you post on gamersback, you select the audience for the post, such as all of your friends, the public.. Similarly, when you use touchbase or inbox to communicate with people or businesses, those people and businesses can see the content you send. Your network can also see actions you have taken on our Products, including engagement with ads and sponsored content. We also let other accounts see who has viewed their Gamersback Stories. Public information can be seen by anyone, on or off our website, including if they don't have an account. This includes your gamersback username/gaming name; any information you share with a public audience; information in your public profile on Gamersback; and content you share on a Gamersback Page. You, other people using Gamersback, and we can provide access to or send public information to anyone on or off our services, including in other Gamersback Company Products, in search results, or through tools and APIs. Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs, and offline media such as TV, and by apps, websites and other services that integrate with our services.Content others share or reshare about youYou should consider who you choose to share with, because people who can see your activity on our services can choose to share it with others on and off our website, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our website. Also, when you comment on someone else's post or react to their content, your comment or reaction is visible to anyone who can see the other person's content, and that person can change the audience later. People can also use our services to create and share content about you with the audience they choose. For example, people can share a photo of you in a Story, mention or tag you at a location in a post, or share information about you in their posts or messages. If you are uncomfortable with what others have shared about you on our website, you can learn how to report the content.Information about your active status or presence on our Products.People in your networks can see signals telling them whether you are active on our Products, including whether you are currently active on Gamersback, or when you last used our services.New owner.If the ownership or control of all or part of our services or their assets changes, we may transfer your information to the new owner.Sharing with Third-Party Partners  We work with third-party partners who help us provide and improve our Products or who use Gamersback Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties we share information with:Law enforcement or legal requests. We share information with law enforcement or in response to legal requests in the circumstances outlined below."
+            },
+            {
+              "pointTitle": "How can I manage or delete information about me?",
+              "pointsData": "We provide you with the ability to access, rectify, port and erase your data. We store data until it is no longer necessary to provide our services, or until your account is deleted - whichever comes first. This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Gamersback, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after review, unless otherwise stated. Learn more about deletion of content you have shared and cookie data obtained through social plugins.When you delete your account, we delete things you have posted, such as your photos, videos and gameplays, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using our service, you can deactivate your account instead."
+            },
+            {
+              "pointTitle": "How do we respond to legal requests or prevent harm?",
+              "pointsData": "We access, preserve and share your information with regulators, law enforcement or others: In response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the service, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm. For example, if relevant, we provide information to and receive information from third-party partners about the reliability of your account to prevent fraud, abuse and other harmful activity on and off our Products.Information we receive about you (including financial transaction data related to purchases made) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse or other term violations."
+            },
+            {
+              "pointTitle": "How do we operate and transfer data as part of our global services?",
+              "pointsData": "We share information globally, both internally within the Gamersback, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in India. These data transfers are necessary to provide the services set forth in the Gamersback terms and to globally operate and provide our Products to you."
+            },
+            {
+              "pointTitle": "How will we notify you of changes to this policy?",
+              "pointsData": "We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our services."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mainHeading": "Privacy policy",
+      "subHeadings": [
+        {
+          "subTitle": "Establishing Healthy gaming Habits privacy",
+          "data": [
+            {
+              "pointTitle": "Advice for Parents guidelines",
+              "pointsData": "VK has always been in favor of transparency. We believe that people should have the ability to freely express themselves, share their opinions and have easy access to interesting content. Our services allow you to meet people and share important life moments, and you get to decide what you want to share and with whom. In this section, we will explain how you can manage your information and protect it from scammers"
+            },
+            {
+              "pointTitle": "Advice for Parents guidelines invading your privacy",
+              "pointsData": "And we do so without invading your privacy. We study how you use VK, to better understand your needs and create tailored services, such as the smart feed, music recommendations, friend search and personalized notifications. For example, if you like to watch videos from cybersport stars in the Suggestions section or read articles about tasty food, we will offer you similar posts and continue developing our products, taking into account your interests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mainHeading": "Parents Guidelines",
+      "subHeadings": [
+        {
+          "subTitle": "Parental Guidelines for Children's Gaming",
+          "data": [
+            {
+              "pointTitle": "Age-Appropriate Games: Parents are responsible for ensuring that their children engage in age-appropriate gaming experiences. Choose games that align with their developmental stage, avoiding content that may be unsuitable or harmful.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Time Limits and Schedule: Parents must establish and enforce reasonable time limits for gaming sessions. Develop a schedule that strikes a balance between gaming and other essential activities, such as homework, physical exercise, and social interactions.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Supervision and Monitoring: Parents are encouraged to actively supervise their children's gaming activities. Regularly monitor the content, duration, and overall impact of gaming to ensure it remains appropriate and healthy for their well-being",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Parental Controls and Safety Features: Utilize parental control settings and safety features provided by gaming platforms or software. Restrict access to inappropriate content, regulate online interactions, and set limitations on in-game purchases.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Open Communication: Foster open and honest communication with children about their gaming habits. Encourage them to share their experiences, concerns, and any potential issues they may encounter while gaming.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Educational Value: Encourage children to engage in educational and skill-building games. Promote games that enhance problem-solving, critical thinking, creativity, and collaboration, maximizing the educational value of gaming experiences.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Online Safety: Teach children about online safety measures while gaming. Emphasize the importance of not sharing personal information, using strong and unique passwords, and reporting any inappropriate behavior or content encountered while gaming.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Healthy Gaming Habits: Educate children about healthy gaming habits. Teach them to take regular breaks, practice good posture, and maintain a balanced lifestyle by participating in physical activities and social interactions beyond gaming.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Setting Realistic Expectations: Help children understand the difference between virtual achievements and real-life goals. Encourage them to set realistic expectations regarding gaming accomplishments and prioritize real-world responsibilities.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Parental Engagement: Actively engage in your child's gaming experiences. Play games together, show interest in their gameplay, and promote shared family activities that extend beyond the virtual world.",
+              "pointsData": "These guidelines aim to provide a framework for parents to foster a safe, balanced, and positive gaming environment for their children. It is the responsibility of parents to ensure compliance with these guidelines and make informed decisions that promote their child's well-being and healthy gaming habits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mainHeading": "Game Addiction",
+      "subHeadings": [
+        {
+          "subTitle": "Guidelines for Time Management in Gaming",
+          "data": [
+            {
+              "pointTitle": "Awareness and Education: The platform aims to raise awareness about game addiction and its potential consequences. Provide educational resources and information about the signs, risks, and prevention strategies related to game addiction.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Responsible Gaming: Engage in responsible gaming practices. Emphasize the importance of maintaining a healthy balance between gaming and other aspects of life, such as work, education, relationships, and physical well-being.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Time Management: Users are advised to manage their gaming time effectively. Encourage them to set personal time limits and adhere to them, ensuring that gaming does not interfere with their daily responsibilities or negatively impact their overall well-being.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Early Intervention: Promote early intervention for users who display signs of excessive gaming or potential addiction. Encourage users to seek help and support from trusted individuals, such as friends, family, or professional counselors, if they feel their gaming habits are becoming problematic.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Supportive Community: Foster a supportive and understanding community environment where users can openly discuss their concerns or challenges related to game addiction. Encourage users to offer support and resources to those who may be struggling with excessive gaming.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Parental Involvement: Parental involvement in monitoring and guiding their children's gaming habits is important. Parents needs to understand about the signs of game addiction and provide resources to help their wards to facilitate a healthy gaming environment.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Moderation and Accountability: Self-monitor the gaming habits and engage in self-reflection. Track and limit the gaming time, fostering a sense of accountability and self-control.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Referral to Professional Help: In cases users require professional assistance, do contact us on our help center. We will provide information on resources and organizations specializing in game addiction prevention and treatment. We encourage users to seek help when needed and we support the users in their journey towards recovery.",
+              "pointsData": "These guidelines are intended to create a responsible and supportive gaming community, prioritizing the well-being of users and promoting healthy gaming habits. The platform is committed to proactive measures to prevent and address game addiction while fostering an environment that encourages responsible and enjoyable gaming experiences."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mainHeading": "Healthy Gameplay",
+      "subHeadings": [
+        {
+          "subTitle": "Guidelines for Healthy Gaming",
+          "data": [
+            {
+              "pointTitle": "Balanced Engagement: Users are expected to maintain a balanced approach to gaming, recognizing the importance of fulfilling other responsibilities and activities beyond gaming. Prioritize academic, professional, physical, and social commitments alongside gaming.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Time Management: Users must establish and adhere to reasonable time limits for gaming sessions. Excessive or prolonged gaming is discouraged to prevent potential adverse effects on physical and mental well-being. Time limits should be respected to maintain a healthy balance.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Regular Breaks: Users are encouraged to take regular breaks during gaming sessions. It is advised to pause gameplay every hour to engage in activities like stretching, resting the eyes, and physical exercise. These breaks aim to prevent fatigue and promote overall well-being.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Ergonomic Considerations: Users should ensure a comfortable and ergonomic gaming environment. Utilize supportive chairs, maintain proper posture, and adequate lighting to minimize the risk of physical discomfort, strain, or long-term health issues associated with poor ergonomics.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Hydration and Nutrition: Users are reminded to stay hydrated and nourished while gaming. Access to water and consumption of nutritious snacks are encouraged to promote overall health. Avoid excessive consumption of sugary or caffeinated beverages and opt for healthier alternatives.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Physical Activity: Users are strongly encouraged to engage in regular physical activity outside of gaming. Incorporate exercise, sports, or other physical activities to maintain a healthy and active lifestyle beyond gaming sessions.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Responsible Online Behavior: Users are expected to demonstrate responsible and ethical behavior while engaging in online gaming. Respect for fellow gamers, adherence to sportsmanship, and avoiding harassment or bullying are imperative to foster a positive and inclusive gaming community.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Sleep Prioritization: Users must prioritize adequate sleep and maintain consistent sleep patterns. Avoid sacrificing sleep for extended gaming sessions, as proper rest is essential for cognitive function, overall well-being, and optimal gaming performance.",
+              "pointsData": ""
+            },
+            {
+              "pointTitle": "Awareness and Education: Users are encouraged to stay informed about healthy gaming habits and strategies to maintain a balanced lifestyle. Access reputable sources of information that provide guidance on potential risks associated with excessive gaming and effective mitigation strategies.",
+              "pointsData": "These guidelines serve as a policy to ensure the well-being of our gaming community. It is the collective responsibility of all users to adhere to these guidelines and promote a culture of healthy gaming."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mainHeading": "Indian Govt Advisory",
+      "subHeadings": [
+        {
+          "subTitle": "Establishing Healthy gaming Habits privacy",
+          "data": [
+            {
+              "pointTitle": "Advice for Parents guidelines",
+              "pointsData": "VK has always been in favor of transparency. We believe that people should have the ability to freely express themselves, share their opinions and have easy access to interesting content. Our services allow you to meet people and share important life moments, and you get to decide what you want to share and with whom. In this section, we will explain how you can manage your information and protect it from scammers"
+            },
+            {
+              "pointTitle": "Advice for Parents guidelines invading your privacy",
+              "pointsData": "And we do so without invading your privacy. We study how you use VK, to better understand your needs and create tailored services, such as the smart feed, music recommendations, friend search and personalized notifications. For example, if you like to watch videos from cybersport stars in the Suggestions section or read articles about tasty food, we will offer you similar posts and continue developing our products, taking into account your interests."
+            }
+          ]
+        },
+        {
+          "subTitle": "dummy heading privacy policy",
+          "data": [
+            {
+              "pointTitle": "dummy pointTitle 01 of dummy subheading",
+              "pointsData": "VK has always been in favor of transparency. We believe that people should have the ability to freely express themselves, share their opinions and have easy access to interesting content. Our services allow you to meet people and share important life moments, and you get to decide what you want to share and with whom. In this section, we will explain how you can manage your information and protect it from scammers"
+            },
+            {
+              "pointTitle": "dummy pointTitle 02 of dummy subheading",
+              "pointsData": "And we do so without invading your privacy. We study how you use VK, to better understand your needs and create tailored services, such as the smart feed, music recommendations, friend search and personalized notifications. For example, if you like to watch videos from cybersport stars in the Suggestions section or read articles about tasty food, we will offer you similar posts and continue developing our products, taking into account your interests."
+            }
+          ]
+        },
+        {
+          "subTitle": "test subtitle index - 2",
+          "data": [
+            {
+              "pointTitle": "test pointTitle 1",
+              "pointsData": "VK has always been in favor of transparency. We believe that people should have the ability to freely express themselves, share their opinions and have easy access to interesting content. Our services allow you to meet people and share important life moments, and you get to decide what you want to share and with whom. In this section, we will explain how you can manage your information and protect it from scammers"
+            },
+            {
+              "pointTitle": "test pointTitle 2",
+              "pointsData": "And we do so without invading your privacy. We study how you use VK, to better understand your needs and create tailored services, such as the smart feed, music recommendations, friend search and personalized notifications. For example, if you like to watch videos from cybersport stars in the Suggestions section or read articles about tasty food, we will offer you similar posts and continue developing our products, taking into account your interests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mainHeading": "Gamersback Guidelines",
+      "subHeadings": [
+        {
+          "subTitle": "Establishing Healthy gaming Habits privacy",
+          "data": [
+            {
+              "pointTitle": "Advice for Parents guidelines",
+              "pointsData": "VK has always been in favor of transparency. We believe that people should have the ability to freely express themselves, share their opinions and have easy access to interesting content. Our services allow you to meet people and share important life moments, and you get to decide what you want to share and with whom. In this section, we will explain how you can manage your information and protect it from scammers"
+            },
+            {
+              "pointTitle": "Advice for Parents guidelines invading your privacy",
+              "pointsData": "And we do so without invading your privacy. We study how you use VK, to better understand your needs and create tailored services, such as the smart feed, music recommendations, friend search and personalized notifications. For example, if you like to watch videos from cybersport stars in the Suggestions section or read articles about tasty food, we will offer you similar posts and continue developing our products, taking into account your interests."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "avatar_data": [
+    {
+      "Pname": "Tamilselvan",
+      "position": "Tech Lead",
+      "image": "assets/png/tamilAvatar.png",
+      "linkedinUrl": "https://www.linkedin.com/in/tamilselvan-balu-0a3406144/",
+      "info": "As a team at Gamersback, we're diverse: we have hidden talents such as being foodies, psychologists, musicians, and more.  What brings us together is our desire to empower people and allow them to pursue their passion in gaming."
+    },
+    {
+      "Pname": "Navneethan",
+      "position": "SDE-3",
+      "image": "assets/png/navaneeAvatar.png",
+      "linkedinUrl": "https://www.linkedin.com/in/cnkrish14/",
+      "info": "As a team at Gamersback, we're diverse: we have hidden talents such as being foodies, psychologists, musicians, and more.  What brings us together is our desire to empower people and allow them to pursue their passion in gaming."
+    },
+    {
+      "Pname": "Dewangi",
+      "position": "SDE-1",
+      "image": "assets/png/dewangiAvatar.png",
+      "linkedinUrl": "https://www.linkedin.com/in/dewangi-dubey-573567201/",
+      "info": "As a team at Gamersback, we're diverse: we have hidden talents such as being foodies, psychologists, musicians, and more.  What brings us together is our desire to empower people and allow them to pursue their passion in gaming."
+    },
+    {
+      "Pname": "Sivanendran",
+      "position": "SDE-1",
+      "image": "assets/png/shivaAvatar.png",
+      "linkedinUrl": "https://www.linkedin.com/in/sivanendran-s-11a481221/",
+      "info": "As a team at Gamersback, we're diverse: we have hidden talents such as being foodies, psychologists, musicians, and more.  What brings us together is our desire to empower people and allow them to pursue their passion in gaming."
+    },
+    {
+      "Pname": "Chinthana",
+      "position": "SDE-1",
+      "image": "assets/png/ChinthanaAvatar.png",
+      "linkedinUrl": "https://www.linkedin.com/in/sivanendran-s-11a481221/",
+      "info": "As a team at Gamersback, we're diverse: we have hidden talents such as being foodies, psychologists, musicians, and more.  What brings us together is our desire to empower people and allow them to pursue their passion in gaming."
+    }
+  ],
+
+  "blog_data": [
+    {
+      "profilePic": "/assets/png/avatar-1.png",
+      "username": "Gamersback",
+      "uniqueId": "@akgsays",
+      "bannerImg": "assets/png/game2.png",
+      "badges": ["Gamerback"],
+      "desc": "Gamersback Blogs now available: All the details",
+      "categories": [
+        {
+          "title": "News",
+          "categoryData": [
+            {
+              "badge": ["Alpha"],
+              "img": "/assets/png/blog-img-2.png",
+              "desc": "Gamersback : Learnings from Alpha Test and market research",
+              "meduimUrl": "https://gamersback.medium.com/gamersback-learnings-from-alpha-test-14fa98db1dd1"
+            },
+            {
+              "badge": ["Gaming"],
+              "img": "/assets/png/game-banner-4.png",
+              "desc": "Gamersback: The Revolutionary Gaming Era Begins",
+              "meduimUrl": "https://gamersback.medium.com/gamersback-the-revolutionary-gaming-era-begins-1a4a56f6d749"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "landing_page_data": [
+    {
+      "img": "/assets/png/game-banner-1.png"
+    },
+    {
+      "img": "/assets/png/game-banner-2.png"
+    },
+    {
+      "img": "/assets/png/game-banner-3.png"
+    },
+    {
+      "img": "/assets/png/game-banner-1.png"
+    },
+    {
+      "img": "/assets/png/game-banner-2.png"
+    },
+    {
+      "img": "/assets/png/game-banner-1.png"
+    }
+  ],
+
+  "landing_page_features_data": [
+    {
+      "feature": "Social Media",
+      "img": "/assets/png/gamingInsider.png"
+    },
+    {
+      "feature": "Voice Chat",
+      "img": "/assets/png/game-banner-1.png"
+    },
+    {
+      "feature": "Game Stats Sync",
+      "img": "/assets/png/game-banner-2.png"
+    },
+    {
+      "feature": "Game History",
+      "img": "/assets/png/gamingInsider.png"
+    },
+    {
+      "feature": "Voice Assistant",
+      "img": "/assets/png/gamingInsider.png"
+    }
+  ],
+
+  "carousel_data": [
+    [
+      {
+        "img": "/assets/png/game-banner-1.png"
+      },
+      {
+        "img": "/assets/png/game-banner-2.png"
+      },
+      {
+        "img": "/assets/png/game-banner-3.png"
+      }
+    ],
+    [
+      {
+        "img": "/assets/png/game-banner-1.png"
+      },
+      {
+        "img": "/assets/png/game-banner-2.png"
+      }
+    ]
+  ]
+}

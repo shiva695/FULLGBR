@@ -1,0 +1,18 @@
+[
+  {
+    "img": "/assets/svg/femaleAvatar1.svg",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/femaleAvatar2.svg",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/femaleAvatar3.svg",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/femaleAvatar4.svg",
+    "isSelected": false
+  }
+]

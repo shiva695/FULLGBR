@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Content",
+    "select": ["Journalist", "Content Creator", "E-Sport Media"]
+  },
+  {
+    "title": "Player",
+    "select": ["Casual Gamer", "E-sport Athelete"]
+  },
+  {
+    "title": "Tournament Management",
+    "select": [
+      "Owner",
+      "Broadcaster",
+      "Broadcast Observer",
+      "E-sport Scorer",
+      "E-sport Admin"
+    ]
+  }
+]

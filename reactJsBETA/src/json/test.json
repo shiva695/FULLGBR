@@ -1,0 +1,122 @@
+{
+  "customcode": 200,
+  "message": "Record was found",
+  "status": "success",
+  "data": {
+    "_id": "64f9adfc1e9f7794c1b1632c",
+    "gameName": "The LEGO Movie Videogame",
+    "gameDescription": "Join Emmet and an unlikely group of resistance fighters in their heroic quest to thwart Lord Business evil plans - a mission that Emmet is hopelessly and hilariously unprepared for. It's a wild ride with a surprising mix of over 90 playable characters including Batman, Superman, Wonder Woman, the Green Ninja, Gandalf, Shakespeare, Cleopatra and more.",
+    "gameLogo": "https://gamersback.s3.ap-south-1.amazonaws.com/gb-storage/GAMERSBACK.UWCWYcyvY1Mq.png",
+    "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg",
+    "publishers": "WB Games",
+    "developers": "TT Fusion",
+    "age": "18+",
+    "releseDate": "2014-02-04T00:00:00.000+05:30",
+    "genre": ["Adventure", "Puzzle"],
+    "totalDownloads": "1.7K",
+    "totalUsers": "11",
+    "platform": ["Xbox", "PS4", "Online"],
+    "plotDescription": "Join Emmet and an unlikely group of resistance fighters in their heroic quest to thwart Lord Business evil plans - a mission that Emmet is hopelessly and hilariously unprepared for. It's a wild ride with a surprising mix of over 90 playable characters including Batman, Superman, Wonder Woman, the Green Ninja, Gandalf, Shakespeare, Cleopatra and more.",
+    "awards": [
+      {
+        "name": "data",
+        "category": "bgmi",
+        "date": "2023-06-08T17:52:34.389+05:30",
+        "_id": "64f9adfc1e9f7794c1b1632d"
+      },
+      {
+        "name": "data",
+        "category": "bgmi",
+        "date": "2023-06-08T17:52:34.389+05:30",
+        "_id": "64f9adfc1e9f7794c1b1632e"
+      },
+      {
+        "name": "data",
+        "category": "bgmi",
+        "date": "2023-06-08T17:52:34.389+05:30",
+        "_id": "64f9adfc1e9f7794c1b1632f"
+      },
+      {
+        "name": "data",
+        "category": "bgmi",
+        "date": "2023-06-08T17:52:34.389+05:30",
+        "_id": "64f9adfc1e9f7794c1b16330"
+      }
+    ],
+    "rating": {
+      "totalReviewsCount": 3,
+      "ratingData": {
+        "onestar": 1,
+        "twostar": 0,
+        "threestar": 0,
+        "fourstar": 1,
+        "fivestar": 1
+      },
+      "comments": [
+        {
+          "userId": "650a9ac65c6b48d76254f7d7",
+          "userName": "derrickson",
+          "userImage": "https://gamersback.s3.ap-south-1.amazonaws.com/gb-storage/GAMERSBACK.Jvq6q6uMlkvb.jpg",
+          "comments": "Nice",
+          "rating": 4,
+          "createdAt": "2023-09-20T13:22:26.122+05:30",
+          "_id": "650aa4ba7a7f70689f07eed6"
+        },
+        {
+          "userId": "650a9ac65c6b48d76254f7d7",
+          "userName": "derrickson",
+          "userImage": "https://gamersback.s3.ap-south-1.amazonaws.com/gb-storage/GAMERSBACK.Jvq6q6uMlkvb.jpg",
+          "comments": "Nice",
+          "rating": 5,
+          "createdAt": "2023-09-20T13:22:35.458+05:30",
+          "_id": "650aa4c37a7f70689f07eedb"
+        },
+        {
+          "userId": "650a9ac65c6b48d76254f7d7",
+          "userName": "derrickson",
+          "userImage": "https://gamersback.s3.ap-south-1.amazonaws.com/gb-storage/GAMERSBACK.Jvq6q6uMlkvb.jpg",
+          "comments": "it is like normal kids game",
+          "rating": 1,
+          "createdAt": "2023-09-20T13:23:01.723+05:30",
+          "_id": "650aa4dd7a7f70689f07eee1"
+        }
+      ],
+      "rating": 2.25,
+      "totalRatingCount": 3
+    },
+    "gallery": {
+      "images": [
+        "https://w0.peakpx.com/wallpaper/940/851/HD-wallpaper-pubg-pharoh-x-suit-pubg-bgmi.jpg",
+        "https://wallpapers.com/images/hd/bgmi-sniping-on-grass-hq2ijao9eflpq3xr.jpg",
+        "https://e0.pxfuel.com/wallpapers/246/238/desktop-wallpaper-pubg-and-background.jpg",
+        "https://e1.pxfuel.com/desktop-wallpaper/107/340/desktop-wallpaper-pubg-iphone-6-pubg-iphone-thumbnail.jpg",
+        "https://w0.peakpx.com/wallpaper/495/825/HD-wallpaper-pubg-team-pubg-mobile-battleground-pubg-animation-pubg-car-skin-thumbnail.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrXGaxMz8xcZ8_WmTSykwHat-IGnAc0GnKZQ&usqp=CAU",
+        "https://wrostgame.com/wp-content/uploads/2022/07/wrostgame-101.jpg",
+        "https://blog.unipin.com/en/wp-content/uploads/sites/2/2023/07/BGMI-for-Beginner.jpg"
+      ],
+      "videos": [
+        "https://gamersback.s3.ap-south-1.amazonaws.com/gb-storage/GAMERSBACK.r5ZM1Wn5oQH2.MOV"
+      ]
+    },
+    "founders": [
+      {
+        "name": "Virat",
+        "designation": "CEO && Co-founder",
+        "image": "https://hindi.sky247.net/wp-content/uploads/2023/06/image_2023_06_18T05_10_37_521Z.png",
+        "_id": "64f9adfc1e9f7794c1b16337"
+      },
+      {
+        "name": "Mahi",
+        "designation": "CEO && Co-founder",
+        "image": "https://i.pinimg.com/1200x/02/c4/6b/02c46b517d9b7fa4b87cc12134260a90.jpg",
+        "_id": "64f9adfc1e9f7794c1b16338"
+      }
+    ],
+    "createdBy": "default",
+    "status": "ACTIVE",
+    "createdAt": "2023-09-07T16:33:24.425+05:30",
+    "updatedAt": "2023-09-27T19:14:19.854+05:30",
+    "searchCount": 4
+  }
+}

@@ -1,0 +1,217 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tooltip {
+  @apply invisible absolute top-[-3px];
+}
+
+.has-tooltip:hover .tooltip {
+  @apply visible z-50;
+}
+
+@layer components {
+  .game-card {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    cursor: pointer;
+    @apply hover:scale-105 shadow-lg shadow-black;
+  }
+  .gradient-card-border {
+    @apply bg-transparent rounded-md hover:bg-gradient-to-r from-[#DD3131] to-[#223EAC] p-1 border-none;
+  }
+
+  .gradient-red-to-blue {
+    @apply bg-gradient-to-r from-[#DD3131] to-[#223EAC];
+  }
+
+  .gradient-blue-to-red {
+    @apply bg-gradient-to-r from-[#223EAC] to-[#DD3131];
+  }
+  .popup {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    background: #121212;
+    padding: 14px 28px;
+    border-radius: 3px;
+    max-width: 600px;
+    min-width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    @apply rounded-3xl;
+  }
+}
+
+@keyframes bounceNew {
+  0%,
+  100% {
+    transform: none;
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  }
+
+  50% {
+    transform: translateY(-25%);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+  }
+}
+
+.hover\:bounceNew:hover {
+  animation: bounceNew 1s infinite;
+}
+
+body {
+  /* background-color: #121212; */
+  @apply bg-gradient-to-r from-[#0D0C23] via-[#0F2627] to-[#121212];
+  overflow-x: hidden;
+}
+
+.impact-font {
+  font-family: "Anton", sans-serif;
+}
+
+.lock-scroll {
+  overflow-y: hidden;
+}
+
+.horizontal-line {
+  width: 100%;
+  text-align: center;
+  border-bottom: 2px solid transparent;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+  border-image: linear-gradient(
+    to right,
+    #dd3131 5%,
+    /* rgba(255, 93, 177, 1) 70%, */ #223eac 100%
+  );
+  border-image-slice: 1;
+}
+
+.horizontal-line span {
+  background: #0f2627;
+  padding: 0 10px;
+  font-size: large;
+}
+
+.gradient-border {
+  border-bottom: 3px solid transparent;
+  border-image: linear-gradient(
+    to right,
+    #dd3131 5%,
+    /* rgba(255, 93, 177, 1) 70%, */ #223eac 100%
+  );
+  border-image-slice: 1;
+}
+.gradient-border-left {
+  border-left: 3px solid transparent;
+  border-image: linear-gradient(
+    to bottom,
+    #dd3131 5%,
+    /* rgba(255, 93, 177, 1) 70%, */ #223eac 100%
+  );
+  border-image-slice: 1;
+}
+.gradient-border-full {
+  /* border: 3px solid transparent;
+  background: padding-box linear-gradient(rgba(4, 6, 22, 0), rgba(4, 6, 22, 0)),
+    border-box linear-gradient(rgb(86 77 168), rgb(86 77 168 / 0.1));
+  @apply rounded-xl; */
+
+  /* border: 3px solid transparent; */
+  /* border-image: linear-gradient(to top, #dd3131 5%, #223eac 100%); */
+  /* border-collapse: separate; */
+  /* border-radius: 50px; */
+  /* border-image-slice: 1; */
+
+  border-radius: 25px;
+  border: 3px solid transparent;
+  background: linear-gradient(to top, #dd3131 5%, #223eac 100%) border-box;
+  /* -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor; */
+  mask-composite: exclude;
+}
+
+::-webkit-scrollbar {
+  background-color: #121212;
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background-color: #121212;
+}
+::-webkit-scrollbar-thumb {
+  /* border-image: linear-gradient(
+    to bottom,
+    red 5%,
+    rgba(255, 93, 177, 1) 70%,
+    blue 100%
+  );
+  border-right: 10px solid;
+  border-image-slice: 1%; */
+  background: linear-gradient(rgb(238, 49, 16), rgb(44, 30, 247));
+  border-radius: 10px;
+}
+
+.PhoneInputInput {
+  background: transparent;
+  padding: 10px;
+  color: "#9d9e9e";
+  font-size: 22px;
+}
+
+input:focus {
+  outline: none;
+}
+
+.PhoneInputCountrySelectArrow {
+  margin-left: 15px;
+  font-size: 25px;
+}
+
+.PhoneInputCountryIcon--border {
+  font-size: 15px;
+}
+
+/* Game store sticky */
+.gamestore-sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  /* background-color: yellow;
+  padding: 50px;
+  font-size: 20px; */
+}
+
+.modal-notch {
+  width: 0;
+  height: 0;
+  border-left: 13px solid transparent;
+  border-right: 13px solid transparent;
+  border-bottom: 31.6px solid #242424; /* Adjust the color as desired */
+}
+
+.hump-right {
+  box-shadow: -7px 4px 0 3px #242424;
+}
+
+.hump-left {
+  box-shadow: 7px 4px 0 3px #242424;
+}
+
+::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px inset !important;
+}
+
+input:-webkit-autofill {
+  -webkit-text-fill-color: #9d9e9e !important;
+}

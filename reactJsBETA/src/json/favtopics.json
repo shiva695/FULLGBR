@@ -1,0 +1,86 @@
+[
+  {
+    "img": "/assets/svg/favTopic1.svg",
+    "title": "Art",
+    "tag": "#art",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic2.svg",
+    "title": "Entertainment",
+    "tag": "#entertainment",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic3.svg",
+    "title": "Music",
+    "tag": "#music",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic4.svg",
+    "title": "Food",
+    "tag": "#food",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic5.svg",
+    "title": "Technology",
+    "tag": "#technology",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic6.svg",
+    "title": "Texture",
+    "tag": "#texture",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic7.svg",
+    "title": "Bussiness",
+    "tag": "#bussiness",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic8.svg",
+    "title": "Space",
+    "tag": "#space",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic9.svg",
+    "title": "Wallpaper",
+    "tag": "#wallpaper",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic10.svg",
+    "title": "Game",
+    "tag": "#game",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic11.svg",
+    "title": "Social",
+    "tag": "#social",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic12.svg",
+    "title": "Fashion",
+    "tag": "#fashion",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic1.svg",
+    "title": "Graphics",
+    "tag": "#graphics",
+    "isSelected": false
+  },
+  {
+    "img": "/assets/svg/favTopic2.svg",
+    "title": "Podcast",
+    "tag": "#podcast",
+    "isSelected": false
+  }
+]

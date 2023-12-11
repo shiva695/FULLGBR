@@ -1,0 +1,120 @@
+{
+  "customcode": 200,
+  "message": "Record was found",
+  "status": "success",
+  "skip": 0,
+  "limit": 20,
+  "total": 1512,
+  "data": [
+    {
+      "_id": "64e7435aeeab22bc68288279",
+      "gameName": "The LEGO Movie Videogame",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "WB Games",
+      "developers": "TT Fusion",
+      "releseDate": "2014-02-03T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Action", "Story"],
+      "rating": 2.8
+    },
+    {
+      "_id": "64e7435aeeab22bc68288266",
+      "gameName": "Baldur's Gate 3",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "Larian Studios",
+      "developers": "Larian Studios",
+      "releseDate": "2020-10-05T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Action", "Story"],
+      "rating": 4.1
+    },
+    {
+      "_id": "64e7435aeeab22bc68288253",
+      "gameName": "Dragon's Dogma",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "Capcom",
+      "developers": "Capcom",
+      "releseDate": "2012-05-21T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Story"],
+      "rating": 3.7
+    },
+    {
+      "_id": "64e7435aeeab22bc68288240",
+      "gameName": "Team Sonic Racing",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "Sumo Digital",
+      "developers": "Sega",
+      "releseDate": "2019-05-20T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Action", "Adventure"],
+      "rating": 2.9
+    },
+    {
+      "_id": "64e7435aeeab22bc6828822d",
+      "gameName": "Back to the Future: The Game",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "Telltale Games",
+      "developers": "Telltale Games",
+      "releseDate": "2010-12-21T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Action"],
+      "rating": 3.2
+    },
+    {
+      "_id": "64e7435aeeab22bc6828822d",
+      "gameName": "Back to the Future: The Game",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "Telltale Games",
+      "developers": "Telltale Games",
+      "releseDate": "2010-12-21T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Action"],
+      "rating": 3.2
+    },
+    {
+      "_id": "64e7435aeeab22bc6828822d",
+      "gameName": "Back to the Future: The Game",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "Telltale Games",
+      "developers": "Telltale Games",
+      "releseDate": "2010-12-21T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Action"],
+      "rating": 3.2
+    },
+    {
+      "_id": "64e7435aeeab22bc6828822d",
+      "gameName": "Back to the Future: The Game",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "Telltale Games",
+      "developers": "Telltale Games",
+      "releseDate": "2010-12-21T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Action"],
+      "rating": 3.2
+    },
+    {
+      "_id": "64e7435aeeab22bc6828822d",
+      "gameName": "Back to the Future: The Game",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "Telltale Games",
+      "developers": "Telltale Games",
+      "releseDate": "2010-12-21T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Action"],
+      "rating": 3.2
+    },
+    {
+      "_id": "64e7435aeeab22bc6828822d",
+      "gameName": "Back to the Future: The Game",
+      "gameLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi25MvxU4GrPmOiXMHceWe7sfrSD-Jq_1Sg&usqp=CAU",
+      "publishers": "Telltale Games",
+      "developers": "Telltale Games",
+      "releseDate": "2010-12-21T18:30:00.000Z",
+      "status": "ACTIVE",
+      "genre": ["Action"],
+      "rating": 3.2
+    }
+  ]
+}

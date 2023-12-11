@@ -1,0 +1,62 @@
+[
+  {
+    "heading": "Admin",
+    "subheading": [
+      {
+        "name": "Roles",
+        "privilages": {
+          "view": false,
+          "add": false,
+          "edit": false,
+          "delete": false
+        }
+      },
+      {
+        "name": "Managers",
+        "privilages": {
+          "view": false,
+          "add": false,
+          "edit": false,
+          "delete": false
+        }
+      }
+    ]
+  },
+  {
+    "heading": "Users",
+    "subheading": [
+      {
+        "name": "User",
+        "privilages": {
+          "view": false,
+          "add": false,
+          "edit": false,
+          "delete": false
+        }
+      }
+    ]
+  },
+  {
+    "heading": "Notification",
+    "subheading": [
+      {
+        "name": "Notification Template",
+        "privilages": {
+          "view": false,
+          "add": false,
+          "edit": false,
+          "delete": false
+        }
+      },
+      {
+        "name": "Send Notifications",
+        "privilages": {
+          "view": false,
+          "add": false,
+          "edit": false,
+          "delete": false
+        }
+      }
+    ]
+  }
+]

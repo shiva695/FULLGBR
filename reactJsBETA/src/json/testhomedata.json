@@ -1,0 +1,59 @@
+{
+  "customcode": 200,
+  "message": "Record was found",
+  "status": "success",
+  "data": {
+    "gamepediaData": [
+      {
+        "_id": "64f9adfc1e9f7794c1b1632c",
+        "gameName": "The LEGO Movie Videogame",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      },
+      {
+        "_id": "64f9adf61e9f7794c1b1111f",
+        "gameName": "Hollow Knight",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      },
+      {
+        "_id": "64f9adf61e9f7794c1b11157",
+        "gameName": "Among Us",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      },
+      {
+        "_id": "64f9adf61e9f7794c1b11165",
+        "gameName": "NieR: Automata",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      },
+      {
+        "_id": "64f9adf61e9f7794c1b11149",
+        "gameName": "Metroid Dread",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      },
+      {
+        "_id": "64f9adf61e9f7794c1b11111",
+        "gameName": "Undertale",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      },
+      {
+        "_id": "64f9adf61e9f7794c1b1112d",
+        "gameName": "Minecraft",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      },
+      {
+        "_id": "64f9adf61e9f7794c1b110f5",
+        "gameName": "Hades",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      },
+      {
+        "_id": "64f9adf61e9f7794c1b110e7",
+        "gameName": "Elden Ring",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      },
+      {
+        "_id": "64f9adf61e9f7794c1b11103",
+        "gameName": "The Legend of Zelda: Breath of the Wild",
+        "gameBanner": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/bgmi-unban-1.jpg"
+      }
+    ]
+  }
+}
